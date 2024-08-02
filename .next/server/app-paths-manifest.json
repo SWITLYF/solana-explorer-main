@@ -1,0 +1,6 @@
+{
+  "/(app)/page": "app/(app)/page.js",
+  "/api/latest-transactions-graph/route": "app/api/latest-transactions-graph/route.js",
+  "/api/latest-blocks/route": "app/api/latest-blocks/route.js",
+  "/api/latest-transactions/route": "app/api/latest-transactions/route.js"
+}
