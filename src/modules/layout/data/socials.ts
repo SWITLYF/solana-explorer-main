@@ -16,7 +16,7 @@ export interface SocialItem {
 export const socials: SocialItem[] = [
   {
     name: "GitHub",
-    link: "https://github.com/0xpasho",
+    link: "https://github.com/SWITLYF",
     icon: GitHubLogoIcon,
   },
   {
